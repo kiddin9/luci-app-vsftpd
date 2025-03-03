@@ -8,7 +8,7 @@
 		},
 		"depends": {
 			"acl": [
-				"luci-app-tn-vsftpd-config"
+				"luci-app-vsftpd-config"
 			],
 			"uci": {
 				"vsftpd": true
